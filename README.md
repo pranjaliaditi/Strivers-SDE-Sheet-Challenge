@@ -1,6 +1,6 @@
 # Strivers-SDE-Sheet-Challenge
 
-This repository contains my solutions to the questions in Striver's SDE sheet.
+This repository contains my solutions to the questions in Striver's SDE sheet on Code Studio.
 
 <br>
 Challenge link: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/ <br>
